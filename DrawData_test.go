@@ -3,7 +3,7 @@ package imgui_test
 import (
 	"testing"
 
-	"github.com/inkyblackness/imgui-go/v4"
+	"github.com/TheEyeOfBrows/imgui-go/v4"
 
 	"github.com/stretchr/testify/assert"
 )
